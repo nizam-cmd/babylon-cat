@@ -1,5 +1,4 @@
 // app.js
-<script src="https://cdn.babylonjs.com/babylon.js"></script>
 window.addEventListener('DOMContentLoaded', function () {
     const canvas = document.getElementById('renderCanvas');
     const engine = new BABYLON.Engine(canvas, true);
